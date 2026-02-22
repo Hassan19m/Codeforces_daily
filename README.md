@@ -1,4 +1,4 @@
-# Codeforces_daily
+# Codeforces_daily && learning CP
 My C++ & DSA Journey 🚀
 
 This repository contains my daily progress as a first-year engineering student.
