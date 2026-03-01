@@ -10,6 +10,8 @@ Topics Covered:
 - [x] Sortings
 - [ ] STL
 - [ ] Pointers
-- [ ] 
 
- Goal :- Completing dsa by the end of the 2nd semester of my college - [ ]
+ Goal :- By the end of second semester :-
+ - [ ] Completing the majority part of DSA.
+ - [ ] Atleast 100 problems solved on codeforces.
+ - [ ] Building a mini project using the knowledge of DSA so far.
