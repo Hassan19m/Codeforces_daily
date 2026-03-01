@@ -5,7 +5,7 @@ This repository contains my daily progress as a first-year engineering student.
 
 Topics Covered:
 - [x] Basic Syntax (Loops, Conditions)
-- [] Arrays & Strings
+- [ ] Arrays & Strings
 - [x] Time & Space Complexity
 - [x] Sortings
 
