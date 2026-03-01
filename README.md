@@ -8,3 +8,5 @@ Topics Covered:
  [ ] Arrays & Strings
  [ ] Time & Space Complexity
  [ ] Sortings
+
+ Goal :- Completing dsa by the end of the 2nd semester of my college [ ]
