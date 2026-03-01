@@ -9,4 +9,4 @@ Topics Covered:
 - [x] Time & Space Complexity
 - [x] Sortings
 
- Goal :- Completing dsa by the end of the 2nd semester of my college [ ]
+ Goal :- Completing dsa by the end of the 2nd semester of my college - [ ]
